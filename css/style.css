@@ -80,7 +80,7 @@ section#background-1 p div {
 
 .bg-abu-abu {
     background-color: grey;
-    opacity: 0.8;
+    opacity: 0.9;
     border-radius: 30px;
 }
 
@@ -139,3 +139,4 @@ section#footer .container-fluid {
         font-size: 11px;
     }
 }
+
