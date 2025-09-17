@@ -8,6 +8,7 @@
 
 #video {
     margin-top: -70px;
+    background-color: #131313;
 }
 
 .gambar-video-1 img {
@@ -151,6 +152,7 @@ section#footer .container-fluid {
         font-size: 11px;
     }
 }
+
 
 
 
