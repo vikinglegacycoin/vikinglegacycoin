@@ -67,7 +67,7 @@ section#background-1 p div {
 }
 
 .btn-footer-atas {
-    border-radius: 20px;
+    border-radius: 10px;
     width: 100px;
     font-size: 11px;
 }
@@ -151,3 +151,4 @@ section#footer .container-fluid {
         font-size: 11px;
     }
 }
+
