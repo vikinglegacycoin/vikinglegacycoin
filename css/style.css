@@ -116,7 +116,7 @@ section#footer .container-fluid {
     color: black;
     background-color: white;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 8px;
     }
 
     .text-putih {
@@ -124,7 +124,7 @@ section#footer .container-fluid {
     }
 
     section#video img {
-        width: 20px;
+        width: 15px;
     }
 
     /*#background-1 {
@@ -144,8 +144,8 @@ section#footer .container-fluid {
 
      section#background-1 div.row div.col video {
         margin-top: 20px;
-        height: 140px;
-        width: 160px;
+        height: 130px;
+        width: 135px;
     }
 
       section#background-1 .img-bg-3{
@@ -165,3 +165,4 @@ section#footer .container-fluid {
         font-size: 11px;
     }
 }
+
