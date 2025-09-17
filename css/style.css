@@ -1,0 +1,167 @@
+#logo {
+    position: relative;
+}
+
+.img-logo {
+    max-width: 300px;
+}
+
+#video {
+    margin-top: -70px;
+    background-color: #000000;
+}
+
+.gambar-video-1 img {
+    max-width: 50px;
+}
+
+.video1 {
+    width: 100%;
+}
+
+.sosmed-logo {
+    margin-top: -50px;
+    /*margin-top: -10px;*/
+}
+
+.text-putih {
+    color: #FFFFFF;
+    font-size: 14px;
+}
+
+div.row div.col-12 span {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+/*Background - 1*/
+#background-1 {
+    background-image: url("../assets/image/combined-background.png");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*height: 100vh;*/
+}
+
+section#background-1 h1 {
+    color: #FFFFFF;
+}
+
+section#background-1 p {
+    color: #FCBC57;
+    font-size: 12px;
+}
+
+section#background-1 p div {
+    color: #FCBC57;
+}
+
+
+/*footer*/
+#footer{
+    background-image: url("../assets/image/footer.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-footer-atas {
+    border-radius: 20px;
+    width: 100px;
+    font-size: 11px;
+}
+
+.btn-footer-bawah {
+    font-size: 11px;
+}
+
+.bg-abu-abu {
+    background-color: grey;
+    opacity: 0.9;
+    border-radius: 30px;
+}
+
+section#footer .container-fluid {
+    margin-top: 220px;
+}
+
+#footer2{
+    background-image: url("../assets/image/footer-01.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*Mobil Phone*/
+
+
+@media (max-width: 576px) {
+
+    .img-logo {
+    max-width: 100px;
+    }
+
+    #video {
+    margin-top: -50px;
+    }
+
+    .sosmed-logo {
+    margin-top: -20px;
+    /*margin-top: -10px;*/
+    }
+
+    div.row div.col-12 span {
+    color: black;
+    background-color: white;
+    font-weight: bold;
+    font-size: 10px;
+    }
+
+    .text-putih {
+        font-size: 10px;
+    }
+
+    section#video img {
+        width: 20px;
+    }
+
+    /*#background-1 {
+        height: 120vh;
+    }*/
+    section#background-1 a {
+        font-size: 8px;
+    }
+
+    section#background-1 p {
+        font-size: 5px;
+    }
+
+    section#background-1 h1 {
+        font-size: 10px;
+    }
+
+     section#background-1 div.row div.col video {
+        margin-top: 20px;
+        height: 140px;
+        width: 160px;
+    }
+
+      section#background-1 .img-bg-3{
+        width: 100px;
+    }
+
+
+    /*section#background-2 .img-bg-2 {
+        max-width: 200px;
+    }
+
+    section#background-2 .img2-bg-2{
+        max-height: 100px;
+    }*/
+
+    section#footer p {
+        font-size: 11px;
+    }
+}
