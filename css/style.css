@@ -12,6 +12,7 @@
 }
 
 .gambar-video-1 img {
+    position: relative;
     max-width: 50px;
 }
 
@@ -152,3 +153,4 @@ section#footer .container-fluid {
         font-size: 11px;
     }
 }
+
